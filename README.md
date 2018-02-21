@@ -1,7 +1,6 @@
-# FastShell
-[![Build Status](https://travis-ci.org/HosseinKarami/fastshell.png?branch=master)](https://travis-ci.org/HosseinKarami/fastshell)
+# FastShell 2.0 by Fil923
 
-inspired by [FireShell](http://getfireshell.com)
+inspired by [Fastshell](http://github.com/HosseinKarami/fastshell)
 Fiercely quick front-end boilerplate and workflows.
 
 The opinionated FastShell framework. Built for the modern developer. For teams and the individual, encouraging a better workflow. JavaScript task running, build processes, autominification and file concatenation, wrapped with an enhanced HTML5 boilerplated framework.
@@ -13,7 +12,7 @@ The opinionated FastShell framework. Built for the modern developer. For teams a
 
 ## License
 
-#### The MIT License (MIT)
+### The MIT License (MIT)
 
 Copyright (c) FastShell
 

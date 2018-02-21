@@ -3,7 +3,7 @@
   'use strict';
 
   $(function () {
-    // FastShell
+    // FastShell 2.0
   });
 
 })(jQuery, window, document);
